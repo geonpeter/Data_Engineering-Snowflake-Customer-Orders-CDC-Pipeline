@@ -9,7 +9,8 @@
 4. Task Automation: Snowflake tasks are used to periodically refresh the aggregated table every 2 minutes, ensuring that the reporting data is always up to date.
 
 ## Workflow Diagram
-![Workflow]![image](https://github.com/user-attachments/assets/2e8e1bfd-6762-406e-af8f-ba7ff3c0d89e)
+![Workflow]![image](https://github.com/user-attachments/assets/aa59f88e-619d-4ee9-b50c-080dfe0974b9)
+
 
 
 ## Directory Structure
